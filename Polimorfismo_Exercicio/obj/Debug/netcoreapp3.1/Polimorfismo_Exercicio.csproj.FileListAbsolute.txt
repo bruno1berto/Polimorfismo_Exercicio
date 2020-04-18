@@ -1,0 +1,13 @@
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\bin\Debug\netcoreapp3.1\Polimorfismo_Exercicio.exe
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\bin\Debug\netcoreapp3.1\Polimorfismo_Exercicio.deps.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\bin\Debug\netcoreapp3.1\Polimorfismo_Exercicio.runtimeconfig.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\bin\Debug\netcoreapp3.1\Polimorfismo_Exercicio.runtimeconfig.dev.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\bin\Debug\netcoreapp3.1\Polimorfismo_Exercicio.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\bin\Debug\netcoreapp3.1\Polimorfismo_Exercicio.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\obj\Debug\netcoreapp3.1\Polimorfismo_Exercicio.csprojAssemblyReference.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\obj\Debug\netcoreapp3.1\Polimorfismo_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\obj\Debug\netcoreapp3.1\Polimorfismo_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\obj\Debug\netcoreapp3.1\Polimorfismo_Exercicio.AssemblyInfo.cs
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\obj\Debug\netcoreapp3.1\Polimorfismo_Exercicio.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\obj\Debug\netcoreapp3.1\Polimorfismo_Exercicio.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Polimorfismo_Exercicio\Polimorfismo_Exercicio\obj\Debug\netcoreapp3.1\Polimorfismo_Exercicio.genruntimeconfig.cache
